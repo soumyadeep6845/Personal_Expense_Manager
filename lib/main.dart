@@ -189,7 +189,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 IconButton(
                   onPressed: () => _startAddNewtransaction(context),
                   icon: Icon(
-                    Icons.add_box,
+                    Icons.add,
                     color: Colors.yellow,
                     size: 30,
                   ),
